@@ -56,7 +56,7 @@ This is a [Kubernetes Incubator project](https://github.com/kubernetes/community
 - Author: Mike Taufen (@mtaufen)
 - Sponsor: Tim Hockin (@thockin)
 - Champion: Bowei Du (@bowei)
-- SIG: sig-awesome
+- SIG: sig-network
 
 ## Releasing
 
